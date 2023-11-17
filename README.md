@@ -1,4 +1,6 @@
-## A [CSSharp plugin template](https://docs.cssharp.dev/)
+## A [CSSharp plugin template](https://docs.cssharp.dev/) 
+![Nuget](https://img.shields.io/nuget/v/CSSharpPluginTemplate)
+
 
 ### Usage
 
