@@ -12,3 +12,7 @@ dotnet new install CSSharpPluginTemplate
 dotnet new css_template --name <ProjectName>
 ```
 
+
+#### To enable github actions:
+Rename `github` to `.github`.
+
