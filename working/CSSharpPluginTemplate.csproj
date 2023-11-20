@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <PackageId>CSSharpPluginTemplate</PackageId>
-    <PackageVersion>1.0.0</PackageVersion>
+    <PackageVersion>1.1.0</PackageVersion>
     <Title>CSSharp Plugin Template</Title>
     <Authors>hackmastr</Authors>
     <Description>A template to make starting a plugin quicker.</Description>
